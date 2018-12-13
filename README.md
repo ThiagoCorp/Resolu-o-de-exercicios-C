@@ -1,1 +1,1 @@
-# Resolucão-de-exercicios-C
+# Resolucao-de-exercicios-C
